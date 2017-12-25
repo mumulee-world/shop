@@ -1,0 +1,24 @@
+.top{
+	height: 40px;
+	background-color: #F5F5F5;
+}
+.logo{
+	display: inline-block;
+	line-height: 40px;
+	font-weight: normal;
+}
+.logo a{
+	display: inline-block;
+	width: 16px;
+	height: 16px;
+	float: left;
+}
+.wechat{
+	background: url(../img/wechat.png);
+}
+.weibo{
+	background: url(../img/weibo.png);
+}
+.sina{
+	background: url(../img/sina.png);
+}
