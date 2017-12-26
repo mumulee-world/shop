@@ -1,0 +1,110 @@
+.progressbar{
+	margin-top: 50px;
+	margin-bottom: 20px;
+	width: 1190px;
+	height: 55px;
+}
+.progressbar img{
+	width: 554px;
+	height: 55px;
+	float: right;
+}
+.seccess{
+	width: 1190px;
+	height: 300px;
+}
+.seccessico{
+	display: inline-block;
+	width: 52px;
+	height: inherit;
+	float: left;
+}
+.seccessdetail{
+	float: left;
+	margin-left: 20px;
+	width: 400px;
+	height: inherit;
+}
+.seccessdetail h4{
+	display: inline-block;
+	float: left;
+	width: 400px;
+	height: 30px;
+	margin-bottom: 5px;
+}
+.seccessdetail p{
+	margin-top: 10px;
+	display: inline-block;
+	width: 400px;
+	line-height: 30px;
+	font-size: 16px;
+	color: #666666;
+	font-weight: bold;
+	float: left;
+}
+.seccessdetail strong{
+	display: inline-block;
+	width: 400px;
+	line-height: 20px;
+	font-size: 14px;
+	font-weight: normal;
+	color: #666666;
+	margin-bottom: 50px;
+	float: left;
+}
+.seccessdetail span{
+	display: inline-block;
+	width: 70px;
+	height: 28px;
+	line-height: 28px;
+	font-size: 14px;
+	color: white;
+	float: left;
+	background-color: #1D7AD9;
+	text-align: center;
+}
+.seccessdetail i{
+	display: inline-block;
+	width: 160px;
+	height: 28px;
+	line-height: 28px;
+	font-size: 12px;
+	float: left;
+	font-style: normal;
+	margin-left: 6px;
+	margin-left: 8px;
+}
+.seccessdetail b{
+	font-weight: normal;
+	display: inline-block;
+	width: 160px;
+	height: 28px;
+	line-height: 28px;
+	margin-left: 8px;
+}
+.seccessdetail img{
+	width: 160px;
+	height: 48px;
+	border: 1px solid #DDDDDD;
+	margin-left: 8px;
+}
+.paypage{
+	width: 1049px;
+	height: 321px;
+	border: 1px solid #DEDEDE;
+	margin-left: 72px;
+}
+.paypage{
+	padding: 30px;
+}
+.tips{
+	width: 970px;
+	height: 138px;
+	margin-top: 20px;
+	background-color: #F2F2F2;
+}
+.tips p{
+	line-height: 25px;
+}
+
+
