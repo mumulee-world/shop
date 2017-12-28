@@ -16,8 +16,9 @@
 .seccessico{
 	display: inline-block;
 	width: 52px;
-	height: inherit;
+	height: 100px;
 	float: left;
+	padding-top: 10px;
 }
 .seccessdetail{
 	float: left;
@@ -54,10 +55,11 @@
 }
 .seccessdetail span{
 	display: inline-block;
+	font-weight: normal;
 	width: 70px;
 	height: 28px;
 	line-height: 28px;
-	font-size: 14px;
+	font-size: 12px;
 	color: white;
 	float: left;
 	background-color: #1D7AD9;
@@ -71,12 +73,14 @@
 	font-size: 12px;
 	float: left;
 	font-style: normal;
+	font-weight: normal;
 	margin-left: 6px;
 	margin-left: 8px;
 }
 .seccessdetail b{
 	font-weight: normal;
 	display: inline-block;
+	color: #FF7700;
 	width: 160px;
 	height: 28px;
 	line-height: 28px;
@@ -88,23 +92,55 @@
 	border: 1px solid #DDDDDD;
 	margin-left: 8px;
 }
+
 .paypage{
-	width: 1049px;
+	width: 1008px;
 	height: 321px;
 	border: 1px solid #DEDEDE;
 	margin-left: 72px;
-}
-.paypage{
-	padding: 30px;
+	padding-left: 40px;
+	padding-top: 28px;
 }
 .tips{
-	width: 970px;
-	height: 138px;
+	width: 968px;  
+	height: 125px;
 	margin-top: 20px;
 	background-color: #F2F2F2;
+	padding-top: 18px;
 }
 .tips p{
 	line-height: 25px;
+	padding-left: 28px;
 }
-
-
+.send{
+	background-color: white;
+	color: gray;
+	margin-left: 10px;
+	border:1px solid gainsboro;
+	padding:2px 4px;
+	
+}
+.moment{
+	background-color: white;
+	border: none;
+	color: white;
+	margin-left: 56px;
+	margin-top: 12px;
+	width: 90px;
+	height: 32px;
+	background-color: #FF7701;
+}
+.tel{
+	width: 246px;
+	height: 27px;
+	border: 1px solid gainsboro;
+}
+.check{
+	width: 128px;
+	height: 27px;
+	border: 1px solid gainsboro;
+	margin-top: 12px;
+}
+.paytips{
+	margin-left: 10px;
+}
