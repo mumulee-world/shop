@@ -28,9 +28,9 @@
 .carpro4 strong{ font-weight:normal; float:left; color:#f70;}
 .carpro4 span{ float:left; display:inline-block;}
 .carpro5{ float:left; width:155px; padding-top:20px;}
-.cardown{ float:left; width:17px; height:20px; background:url(../images/ico/whole.png) no-repeat -147px -271px; margin-right:3px; cursor:pointer;}
+.cardown{ float:left; width:17px; height:20px; background:url(../img/whole.png) no-repeat -147px -271px; margin-right:3px; cursor:pointer;}
 .carpro5 input{ float:left; width:53px; height:18px; border:1px solid #ddd; text-align:center; line-height:18px; margin-right:3px;}
-.carup{ float:left; width:17px; height:20px; background:url(../images/ico/whole.png) no-repeat -174px -271px; cursor:pointer;}
+.carup{ float:left; width:17px; height:20px; background:url(../img/whole.png) no-repeat -174px -271px; cursor:pointer;}
 .carpro6{ float:left; width:130px; padding-top:12px;}
 .carpro6 span{ display:block; color:#f70; font-family:"微软雅黑"; font-size:14px; line-height:20px;}
 .carpro6 span strong{ font-weight:normal;}
@@ -53,13 +53,13 @@
 	float:left;
 	width:14px; 
 	height:12px; 
-	background:url(../images/ico/whole.png) no-repeat -122px -271px; 
+	background:url(../img/whole.png) no-repeat -122px -271px; 
 	margin-top:2px; 
 	margin-right:6px;
  }
 .carwork2 span{ float:left;}
 .carwork3{ float:left; padding:23px 0 0 20px;}
-.carwork3 strong{ float:left; width:13px; height:17px; background:url(../images/ico/whole.png) no-repeat -101px -271px; margin-right:6px;}
+.carwork3 strong{ float:left; width:13px; height:17px; background:url(../img/whole.png) no-repeat -101px -271px; margin-right:6px;}
 .carwork3 span{ float:left;}
 .carwork4{ 
 	float:right;
